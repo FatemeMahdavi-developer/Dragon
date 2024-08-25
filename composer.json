@@ -11,6 +11,7 @@
         "livewire/livewire": "^3.5",
         "morilog/jalali": "^3.4",
         "nwidart/laravel-modules": "^11.0",
+        "spatie/laravel-permission": "^6.9",
         "ybazli/faker": "^1.0"
     },
     "require-dev": {
